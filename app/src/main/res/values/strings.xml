@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">Os_China_Client</string>
+    <string name="app_name">开源中国</string>
+    <string name="action_menu">action_menu</string>
 </resources>
