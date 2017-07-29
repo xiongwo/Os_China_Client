@@ -7,6 +7,8 @@
     android:layout_height="match_parent"
     tools:context="com.xiongwo.os_china_client.MainActivity">
 
+    <include layout="@layout/tool_bar_main"/>
+
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
